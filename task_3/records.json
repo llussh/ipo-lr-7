@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "AVATR 06",
+    "manufacturer": "Changan Automobile",
+    "is_petrol": "True",
+    "tank_volume": "60"
+  },
+  {
+    "id": "2",
+    "name": "BMW 518d Touring",
+    "manufacturer": "BMW AG",
+    "is_petrol": "True",
+    "tank_volume": "70"
+  },
+  {
+    "id": "3",
+    "name": "Nissan N7",
+    "manufacturer": "Dongfeng Nissan",
+    "is_petrol": "False",
+    "tank_volume": "-"
+  },
+  {
+    "id": "4",
+    "name": " FAW Bestune Xiaoma",
+    "manufacturer": "FAW Group",
+    "is_petrol": "False",
+    "tank_volume": "-"
+  },
+  {
+    "id": "5",
+    "name": "BYD Yuan Plus",
+    "manufacturer": "BYD",
+    "is_petrol": "False",
+    "tank_volume": "-"
+  }
+]
